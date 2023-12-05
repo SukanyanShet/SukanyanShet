@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sukanya Shet
+:link: 👋 Hi, I’m @Sukanya Shet
 - A passionate Software Developer
 - [images (1)](https://github.com/SukanyanShet/SukanyanShet/assets/152954498/6290b8d5-4d78-4c2f-93b4-6c322cccdce5)
 - 👀 I’m interested in 
