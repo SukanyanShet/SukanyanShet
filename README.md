@@ -15,6 +15,8 @@
 
 :link: **Connect me with**
 
+https://www.linkedin.com/in/sukanya-n-shet-110b99220
+
 <!---
 SukanyanShet/SukanyanShet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
