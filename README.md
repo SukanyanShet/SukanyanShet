@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=CenturySchoolbook+new&color=%23807080&size=40&width=600&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+
 :link: **Hi 👋, I’m Sukanya Shet** 
 
 :link: **A passionate Software 
@@ -16,6 +18,13 @@
 :link: **Connect me with**
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sukanya-n-shet-110b99220)
+
+:link: **Languages and Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,aws,html,laravel,mongodb,php,postman,vscode&perline=4)](https://skillicons.dev)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukanyanShet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 SukanyanShet/SukanyanShet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
