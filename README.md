@@ -23,8 +23,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,aws,html,laravel,mongodb,php,postman,vscode&perline=4)](https://skillicons.dev)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukanyanShet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!---
 SukanyanShet/SukanyanShet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
