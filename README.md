@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=CenturySchoolbook+new&color=%23807080&size=40&width=600&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-:link: **Hi 👋, I’m Sukanya Shet** 
+:link: **Hi 👋, I’m Sukanya N.Shet** 
 
-:link: **A passionate Software 
-             Developer**
+:link: **A passionate frontend Developer and UI Designer**
 
  ![giphy-13-1](https://github.com/SukanyanShet/SukanyanShet/assets/152954498/a0054e56-8981-45f5-981a-cc9733b15cfe)
 
