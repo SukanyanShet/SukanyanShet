@@ -6,17 +6,19 @@
 
  ![giphy-13-1](https://github.com/SukanyanShet/SukanyanShet/assets/152954498/a0054e56-8981-45f5-981a-cc9733b15cfe)
 
-  - 🌱 I’m currently learning **PHP, Laravel, React, HTML.**
+  - 🌱 I’m currently learning **PHP, Laravel, CSS, HTML, JS, Figma and some AI related tools.**
     
-  - :speech_balloon: Ask me about **Laravel, PHP.**
+  - :speech_balloon: Ask me about **Laravel, PHP, CSS, HTML, Figma.**
     
-  - 📫 How to reach me sknshet@gmail.com
+  - 📫 How to reach me sukanyanshet@gmail.com
     
   - :zap:	Fun fact **Watching Anime, Drawing, Dancing.**
 
 :link: **Connect me with**
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sukanya-n-shet-110b99220)
+
+:link: **All of my projects**
 
 :link: **Languages and Tools**
 
