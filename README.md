@@ -20,8 +20,8 @@
 
 :link: **All of my projects**
 
-[![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoWidth=20&labelColor=white)](https://www.figma.com/proto/gcxIMvpSmT39A8Zfjdv8zN?node-id=0-1&t=PFK7KZjLegMPfef8-6)
-
+[![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoWidth=20&labelColor=white)](#)  
+[Design 1](https://www.figma.com/proto/gcxIMvpSmT39A8Zfjdv8zN?node-id=0-1&t=PFK7KZjLegMPfef8-6) | [Design 2](https://www.figma.com/design/vAJ91sVURq11NYegzYvXMD/Movie-Ticket?m=auto&t=PFK7KZjLegMPfef8-6)
 
 :link: **Languages and Tools**
 
