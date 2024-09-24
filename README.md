@@ -20,10 +20,7 @@
 
 :link: **All of my projects**
 
-<a href="https://www.figma.com/file/your-figma-project-link">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="50" width="50"/>
-</a>
-(https://www.figma.com/proto/gcxIMvpSmT39A8Zfjdv8zN?node-id=0-1&t=PFK7KZjLegMPfef8-6)
+[![Figma](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg)](https://www.figma.com/proto/gcxIMvpSmT39A8Zfjdv8zN?node-id=0-1&t=PFK7KZjLegMPfef8-6)
 
 
 :link: **Languages and Tools**
