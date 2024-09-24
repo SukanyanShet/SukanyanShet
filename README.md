@@ -25,7 +25,7 @@
 
 :link: **Languages and Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,aws,figma,laravel,mongodb,mysql,php,postman,vscode,html,css,js,github&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,aws,figma,laravel,mongodb,mysql,php,postman,vscode,html,css,js,github)](https://skillicons.dev)
 
 
 <!---
