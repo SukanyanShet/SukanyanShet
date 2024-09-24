@@ -15,9 +15,12 @@
   - :zap:	Fun fact **Watching Anime, Drawing, Dancing.**
 
 :link: **Connect me with**
-(https://www.linkedin.com/in/sukanya-n-shet-110b99220)
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sukanya-n-shet-110b99220)
 
 :link: **All of my projects**
+
+[![Figma](https://i.stack.imgur.com/gVE0j.png) Figma](https://www.figma.com/design/vAJ91sVURq11NYegzYvXMD/Movie-Ticket?m=auto&t=PFK7KZjLegMPfef8-1)
 
 :link: **Languages and Tools**
 
