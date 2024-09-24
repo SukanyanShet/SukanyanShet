@@ -20,7 +20,8 @@
 
 :link: **All of my projects**
 
-[![Figma](https://i.stack.imgur.com/gVE0j.png) Figma](https://www.figma.com/design/vAJ91sVURq11NYegzYvXMD/Movie-Ticket?m=auto&t=PFK7KZjLegMPfef8-1)
+[![Figma](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg)](https://www.figma.com/file/your-figma-project-link)
+
 
 :link: **Languages and Tools**
 
