@@ -20,7 +20,7 @@
 
 :link: **All of my projects**
 
-[![Figma](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg)](https://www.figma.com/proto/gcxIMvpSmT39A8Zfjdv8zN?node-id=0-1&t=PFK7KZjLegMPfef8-6)
+[![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoWidth=20&labelColor=white)](https://www.figma.com/proto/gcxIMvpSmT39A8Zfjdv8zN?node-id=0-1&t=PFK7KZjLegMPfef8-6)
 
 
 :link: **Languages and Tools**
