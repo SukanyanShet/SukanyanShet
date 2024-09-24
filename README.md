@@ -15,8 +15,7 @@
   - :zap:	Fun fact **Watching Anime, Drawing, Dancing.**
 
 :link: **Connect me with**
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sukanya-n-shet-110b99220)
+(https://www.linkedin.com/in/sukanya-n-shet-110b99220)
 
 :link: **All of my projects**
 
