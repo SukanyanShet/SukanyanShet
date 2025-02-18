@@ -4,7 +4,7 @@
 
 :link: **A passionate frontend Developer and UI Designer, and Aspiring Business Analyst**
 
- ![giphy-13-1](https://github.com/SukanyanShet/SukanyanShet/assets/152954498/a0054e56-8981-45f5-981a-cc9733b15cfe)
+ ![giphy-13-1](https://github.com/SukanyanShet/SukanyanShet/assets/152954498/a0054e56-8981-45f5-981a-cc9733b15cfp)
 
   - 🌱 I’m currently learning **JS, Figma and some AI related tools.**
     
